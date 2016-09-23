@@ -1,11 +1,11 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `NAME`
+Name: `Kevin Turkingon`
 
-ONID ID: `ONID_ID`
+ONID ID: `turkingk`
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: `https://github.com/OSU-CS290-F16/assignment-0-zainkai`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
