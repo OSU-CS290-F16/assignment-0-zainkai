@@ -5,7 +5,7 @@ Name: `Kevin Turkington`
 
 ONID ID: `turkingk`
 
-Link to my CS 290 page: `https://github.com/OSU-CS290-F16/assignment-0-zainkai`
+Link to my CS 290 page: `file:///home/zain/Desktop/School/cs290/assignment0/index.html`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
